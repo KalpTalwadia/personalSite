@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Kalp Talwadia",
+    "occupation": "A prefinal year computer science student",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "I am currently a second-year Computer Engineering major at Delhi Technological University who is obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.  I started my professional career working as a sole developer at a young startup in my city. ",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "talwadiakalp@gmail.com",
+    "phone": "+91 9687730378",
+    "address": {
+      "street": "B4 Atishay Belle Ville",
+      "city": "Ahemadabd",
+      "state": "Gujarat India",
+      "zip": "380005"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+     
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kalp.talwadia/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kalp-talwadia-49548916b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/talwadiakalp/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/KalpTalwadia",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Delhi Technological University",
+        "degree": "Bachelor's in Technology , Computer Engineering",
+        "graduated": "July 2022",
+        "description": "CGPA:7.83"
+      }
+    ],
+    "work": [
+      {
+        "company": "WeHear Hearing Solutions",
+        "title": "Software Development Engineer",
+        "years": "June 2020 - March 2021",
+        "description": "Engineered a patented medical algorithm into code to generate a Personal Hearing Intelligence score (PHI score).Created a mobile application that includes an inbuilt translator, hearing aid mode for people with hearing loss, and some other useful features. The application acts as a control centre for one’s WeHear OX device(A Bluetooth earphone that uses bone conduction to transmit audio files) using java Developed mobile applications for quality testing of bone conduction devices using java. Developed an online hearing test that generates an audiogram for both the ears and determines the comprehensible SNR level of the ear using WebAudio and Reacts Js. It connects the user to the nearest partnered audiologist if required.Developed a mobile application for retailers of the product that allows them to initiate warranty and maintain sales record using java."
+      },
+      {
+        "company":"Entrepreneurship Cell DTU",
+        "title":"Vice President",
+        "years":" July 2020 - Present",
+        "description":"Lead a vibrant team of 400 members (DTU students) & 1300 campus ambassadors (PAN India) Raised funds equivalent to INR 22 Lakhs through sponsorships & PR drives Provided platforms to budding entrepreneurs to launch & materialize their business model Connected 50+ startups to 2000 students for recruiting purposes Launched a platform for students to connect to alumni of Delhi Technological University"
+
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "HTML and CSS",
+        "level": "80%"
+      },
+    
+      {
+        "name": "JavaScript",
+        "level": "65%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name":"Android",
+        "level":"95%"
+      },
+      {
+        "name":"Machine Learning",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MovieFlix a Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://kalptalwadia.github.io/movieflix/"
+      },
+      {
+        "title": "DTU Connect",
+        "category": "",
+        "image": "DTUConnect.png",
+        "url": "https://play.google.com/store/apps/details?id=com.ecelldtu.dtuconnectfinal&hl=en_I"
+      },
+      {
+        "title": "Video-conferencing  Webapp (React JS & WebRTC)",
+        "category": "",
+        "image": "video.png",
+        "url": "https://damp-retreat-74129.herokuapp.com/?room=home_515155367"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I rarely come across people as determined as Kalp. I had the pleasure of working with Kalp at E-Cell DTU, collaborating on several projects. Kalp's ability to handle tense situations meticulously was unlike any I’ve seen before and made a visible impact on the functioning of the non-profit organization. As a team member or a leader, Kalp earns my highest recommendation.",
+        "user": "Akshita Chander"
+      }
+      
+    ]
+  }
+}
