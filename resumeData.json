@@ -112,6 +112,12 @@
         "category": "",
         "image": "video.png",
         "url": "https://damp-retreat-74129.herokuapp.com/?room=home_515155367"
+      },
+      {
+        "title": "Chat Room  Webapp (React JS & WebRTC)",
+        "category": "",
+        "image": "Chat-room.png",
+        "url": "https://kalptalwadia.github.io/ChatRoom/"
       }
     ]
   },
