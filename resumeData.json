@@ -100,8 +100,9 @@
         "category": "",
         "image": "netflix.png",
         "url": "https://kalptalwadia.github.io/movieflix/",
-        "techStack":"React Firebase",
-        "details": "Netflix clone"
+        "techStack":"React Firebase Styled-Component React-Router React-Hooks",
+        "details": "Netflix clone",
+        "github":"https://github.com/KalpTalwadia/movieflix"
       },
       {
         "title": "DTU Connect",
@@ -109,15 +110,17 @@
         "image": "DTUConnect.png",
         "url": "https://play.google.com/store/apps/details?id=com.ecelldtu.dtuconnectfinal&hl=en_I",
         "techStack":"Android Firebase",
-        "details": "Linkedin Clone"
+        "details": "Linkedin Clone",
+        "github":""
       },
       {
         "title": "Video-conferencing  Webapp",
         "category": "",
         "image": "video.png",
         "url": "https://damp-retreat-74129.herokuapp.com/?room=home_515155367",
-        "techStack":"React WebRTC Networking Protocols",
-        "details": "Zoom Clone"
+        "techStack":"React WebRTC Socket.io Networking Portfolio",
+        "details": "Zoom Clone",
+        "github":"https://github.com/KalpTalwadia/VideoConference"
 
       },
       {
@@ -125,8 +128,9 @@
         "category": "",
         "image": "Chat-room.png",
         "url": "https://kalptalwadia.github.io/ChatRoom/",
-        "techStack":"React Firebase",
-        "details": "Slack Clone"
+        "techStack":"React Firebase Styled-Component React-Router React-Hooks React-Redux",
+        "details": "Slack Clone",
+        "github":"https://github.com/KalpTalwadia/ChatRoom"
       }
     ]
   },
