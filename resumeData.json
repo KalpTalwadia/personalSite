@@ -5,7 +5,7 @@
     "description": "",
     "image": "profilepic.jpg",
     "bio": "I am currently a second-year Computer Engineering major at Delhi Technological University who is obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.  I started my professional career working as a sole developer at a young startup in my city. ",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "contactmessage": "Get in touch with me",
     "email": "talwadiakalp@gmail.com",
     "phone": "+91 9687730378",
     "address": {
@@ -47,7 +47,7 @@
         "school": "Delhi Technological University",
         "degree": "Bachelor's in Technology , Computer Engineering",
         "graduated": "July 2022",
-        "description": "CGPA:7.83"
+        "description": "CGPA:7.77"
       }
     ],
     "work": [
